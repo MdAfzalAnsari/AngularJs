@@ -1,0 +1,11 @@
+D:\Github\My First Window Form\My First Window Form\bin\Debug\My First Window Form.exe.config
+D:\Github\My First Window Form\My First Window Form\bin\Debug\My First Window Form.exe
+D:\Github\My First Window Form\My First Window Form\bin\Debug\My First Window Form.pdb
+D:\Github\My First Window Form\My First Window Form\bin\Debug\My First Window Form.xml
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My First Window Form.vbprojResolveAssemblyReference.cache
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My_First_Window_Form.Form1.resources
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My_First_Window_Form.Resources.resources
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My First Window Form.vbproj.GenerateResource.Cache
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My First Window Form.exe
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My First Window Form.xml
+D:\Github\My First Window Form\My First Window Form\obj\Debug\My First Window Form.pdb
